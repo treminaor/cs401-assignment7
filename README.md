@@ -1,6 +1,9 @@
 # Simple Java Servlet Currency Converter Example
 CSUEB CS-401 Software Development SP2019
 
+### License
+This code has been provided strictly for documentation purposes only, and is not licensed for use by anyone for any purpose. This includes university assignments.
+
 ### Screenshot
 ![GitHub Project Screenshot](screenshots/form.png)
 
