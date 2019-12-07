@@ -1,5 +1,5 @@
 # Simple Java Servlet Currency Converter Example
-### CSUEB CS-401 Software Development SP2019
+CSUEB CS-401 Software Development SP2019
 
 ### Screenshot
 ![GitHub Project Screenshot](screenshots/form.png)
